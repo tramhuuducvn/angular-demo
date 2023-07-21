@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { HousingLocationComponent } from './components/housing-location/housing-location.component';
 import { HomeComponent } from './components/home/home.component';
 import { RouterModule } from '@angular/router';
 
